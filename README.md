@@ -1,4 +1,4 @@
-#About mermaid
+# About mermaid
 
 Mermaid is an open-source JavaScript library that simplifies the creation of various types of diagrams and flowcharts using a straightforward and intuitive text-based syntax. It allows users to generate visually appealing diagrams without the need for specialized software or graphical design skills.
 
@@ -8,11 +8,11 @@ Mermaid diagrams can be rendered in various ways, such as using the Mermaid Live
 
 Whether you're a developer, designer, educator, or anyone in need of creating clear and visually appealing diagrams, Mermaid offers a user-friendly solution that empowers you to communicate complex ideas with simplicity.
 
-##Flowchart
+## Flowchart
 
 A flowchart is a visual representation of a process, system, or algorithm using various symbols and connecting lines to illustrate the sequence of steps or actions involved. It's a powerful tool for explaining complex processes in a clear and easy-to-understand manner. Flowcharts are widely used in various fields, including software development, business analysis, project management, and education.
 
-###Key features of a flowchart include:
+### Key features of a flowchart include:
 
 Symbols: Flowcharts use a set of standardized symbols to represent different elements of a process. Some common symbols include:
 
@@ -40,11 +40,11 @@ Educational Purposes: Flowcharts are valuable tools for teaching and learning co
 Process Documentation: They provide a standardized way to document procedures and guidelines.
 Creating flowcharts manually can be time-consuming, which is where tools like Mermaid come in. Using Mermaid's simple text-based syntax, you can quickly create and share flowcharts without the need for specialized software. This makes flowcharting accessible to individuals with various technical backgrounds and enhances collaboration and understanding across different disciplines.
 
-##Sequence Diagram
+## Sequence Diagram
 
 A sequence diagram is a type of diagram used in software development and system analysis to visually represent the interactions and messages exchanged between various components, objects, or actors within a system. It illustrates the chronological sequence of events as they occur during a specific scenario or process.
 
-Key components of a sequence diagram include:
+### Key components of a sequence diagram include:
 
 Lifelines: Lifelines represent individual objects or entities participating in the interaction. Each lifeline corresponds to a specific component, object, or actor involved in the sequence.
 
@@ -72,11 +72,11 @@ Troubleshooting: They assist in identifying bottlenecks, delays, or communicatio
 
 When using tools like Mermaid to create sequence diagrams, you write the sequence of interactions using a specific syntax. Mermaid then translates this syntax into a visual representation of the interactions, making it easier to include these diagrams in documentation, presentations, and other materials. This approach streamlines the process of creating and sharing sequence diagrams, fostering effective communication and collaboration among team members and stakeholders.
 
-##Journey diagrams
+## Journey diagrams
 
 A journey diagram, also known as a customer journey map or user journey map, is a visual representation that illustrates the various touchpoints, interactions, and experiences a user or customer goes through when engaging with a product, service, or process. It provides a holistic view of the user's journey, highlighting key moments, emotions, and pain points along the way.
 
-Key elements of a journey diagram include:
+### Key elements of a journey diagram include:
 
 Stages: The journey is typically divided into stages or phases that represent different steps in the user's experience. These stages can include awareness, consideration, purchase, usage, support, and more, depending on the context.
 
@@ -104,11 +104,11 @@ Decision Making: Journey diagrams provide insights that guide strategic decision
 
 Creating journey diagrams can be done using various tools, including paper and pen, graphic design software, and specialized journey mapping tools. Tools like Mermaid can also be used to create simplified journey diagrams using text-based syntax. This can be especially useful when you want to quickly create and share journey maps within documentation, presentations, or other materials.
 
-##Gantt diagrams
+## Gantt diagrams
 
 A Gantt diagram, also known as a Gantt chart, is a popular project management tool that provides a visual representation of a project's schedule over time. It displays the timeline of tasks, activities, and milestones involved in a project, making it easier to plan, track progress, and manage resources efficiently.
 
-Key components of a Gantt diagram include:
+### Key components of a Gantt diagram include:
 
 Tasks: Tasks represent the individual activities or work items that need to be completed as part of the project. Each task is listed along the vertical axis of the chart.
 
@@ -138,11 +138,11 @@ Risk Management: Gantt charts allow project managers to identify potential delay
 
 While traditional Gantt charts are often created using specialized project management software, tools like Mermaid offer a text-based way to create simple Gantt diagrams. Mermaid's Gantt syntax allows you to quickly generate Gantt charts within documentation, presentations, and other materials without the need for complex software or design skills. This can be particularly useful for sharing project plans and timelines with team members and stakeholders.
 
-##Git Diagrams
+## Git Diagrams
 
 It seems like you might be referring to diagrams that visualize Git workflows and version control processes. Git diagrams can help you understand how branches, commits, merges, and other Git operations work together to manage code changes and collaborate effectively in software development.
 
-There are several types of diagrams commonly used to illustrate Git workflows:
+### There are several types of diagrams commonly used to illustrate Git workflows:
 
 Branching and Merging:
 
