@@ -9,7 +9,7 @@ checkout resource1
 commit
 commit
 checkout main
-merge Dhanush
+merge resource1
 commit
 commit
 branch resource2
