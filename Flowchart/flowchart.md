@@ -12,7 +12,7 @@ Day_2 --> add_to_Teams_group
 Day_2 --> Providing_official_Email_id
 Onboarding --> Day_3
 Day_3 --> Add_Employee_into_L2M
-Onboarding --> Day_3 --> Github_Traning
+Day_3 --> Github_Traning
 Onboarding --> Day_8 --> AWS_Training
 Onboarding --> Day_11 --> Employee_should_give_demo_on_any_topic
 ```
