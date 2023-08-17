@@ -1,39 +1,18 @@
-# This is flow chart for Property HUB
+# This is flow chart for Onboarding process
 
-````mermaid
+```mermaid
 graph TD
-Propertyhub --> Frontend
-Propertyhub --> Backend
-Backend --> Django --> Apps
-Frontend --> React
-Apps --> property_info
-Apps --> clients
-Apps --> User
-User --> login
-User --> logout
-User --> Signup
-User --> Changepassword
-User --> update_User
-User --> delete_User
-property_info --> View_properties
-property_info --> update_property
-property_info --> deleter_property
-clients --> client_view_page
-clients --> update_client
-clients --> Delete_client
-clients --> datagrid
-datagrid --> update
-datagrid --> delete
-React --> Routes
-Routes --> properties
-Routes --> PropertyName
-Routes -->Home
-Routes --> addclient
-Routes --> property_form
-Routes --> property_form
-Routes --> propertyName
-Routes --> client_form
-Routes --> super_admin
-Routes --> add_user
-Routes --> login
-Routes --> change_password
+Onboarding --> Day_1
+Day_1 --> complete_link_tree_content
+Day_1 --> Fingerprint_Access
+Day_1 --> providing_temprory_id_card
+Day_1 --> Start_the_Bank_Account_creation_process
+Onboarding --> Day_2
+Day_2 --> add_to_Teams_group
+Day_2 --> Providing_official_Email_id
+Onboarding --> Day_3
+Day_3 --> Add_Employee_into_L2M
+Onboarding --> Day_3 --> Github_Traning
+Onboarding --> Day_8 --> AWS_Training
+Onboarding --> Day_11 --> Employee_should_give_demo_on_any_topic
+```
