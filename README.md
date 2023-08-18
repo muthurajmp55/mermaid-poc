@@ -80,6 +80,8 @@ When using tools like Mermaid to create sequence diagrams, you write the sequenc
 
 A journey diagram, also known as a customer journey map or user journey map, is a visual representation that illustrates the various touchpoints, interactions, and experiences a user or customer goes through when engaging with a product, service, or process. It provides a holistic view of the user's journey, highlighting key moments, emotions, and pain points along the way.
 
+![Diagram 2](SVG/journey.svg)
+
 ### Key elements of a journey diagram include:
 
 **Stages**: The journey is typically divided into stages or phases that represent different steps in the user's experience. These stages can include awareness, consideration, purchase, usage, support, and more, depending on the context.
