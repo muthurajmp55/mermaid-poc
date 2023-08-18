@@ -12,7 +12,7 @@ Whether you're a developer, designer, educator, or anyone in need of creating cl
 
 A flowchart is a visual representation of a process, system, or algorithm using various symbols and connecting lines to illustrate the sequence of steps or actions involved. It's a powerful tool for explaining complex processes in a clear and easy-to-understand manner. Flowcharts are widely used in various fields, including software development, business analysis, project management, and education.
 
-<iframe src="https://github.com/vigneshmagudeeswaran/mermaid/blob/main/Flowchart/flowchart.md"></iframe>
+![Diagram 1](SVG/flowchart.svg)
 
 ### Key features of a flowchart include:
 
@@ -46,7 +46,7 @@ Creating flowcharts manually can be time-consuming, which is where tools like Me
 
 A sequence diagram is a type of diagram used in software development and system analysis to visually represent the interactions and messages exchanged between various components, objects, or actors within a system. It illustrates the chronological sequence of events as they occur during a specific scenario or process.
 
-<iframe src="https://github.com/vigneshmagudeeswaran/mermaid/blob/main/Sequence_diagram/Sequence_diagram.md"></iframe>
+![Diagram 2](SVG/sequence.svg)
 
 ### Key components of a sequence diagram include:
 
@@ -80,8 +80,6 @@ When using tools like Mermaid to create sequence diagrams, you write the sequenc
 
 A journey diagram, also known as a customer journey map or user journey map, is a visual representation that illustrates the various touchpoints, interactions, and experiences a user or customer goes through when engaging with a product, service, or process. It provides a holistic view of the user's journey, highlighting key moments, emotions, and pain points along the way.
 
-<iframe src="https://github.com/vigneshmagudeeswaran/mermaid/blob/main/User_Journey_diagram/User_journey_diagram.md"></iframe>
-
 ### Key elements of a journey diagram include:
 
 **Stages**: The journey is typically divided into stages or phases that represent different steps in the user's experience. These stages can include awareness, consideration, purchase, usage, support, and more, depending on the context.
@@ -114,7 +112,7 @@ Creating journey diagrams can be done using various tools, including paper and p
 
 A Gantt diagram, also known as a Gantt chart, is a popular project management tool that provides a visual representation of a project's schedule over time. It displays the timeline of tasks, activities, and milestones involved in a project, making it easier to plan, track progress, and manage resources efficiently.
 
-<iframe src="https://github.com/vigneshmagudeeswaran/mermaid/blob/main/Gantt_diagram/Gantt_diagram.md"></iframe>
+![Diagram 3](SVG/gantt.svg)
 
 ### Key components of a Gantt diagram include:
 
@@ -150,7 +148,7 @@ While traditional Gantt charts are often created using specialized project manag
 
 It seems like you might be referring to diagrams that visualize Git workflows and version control processes. Git diagrams can help you understand how branches, commits, merges, and other Git operations work together to manage code changes and collaborate effectively in software development.
 
-<iframe src="https://github.com/vigneshmagudeeswaran/mermaid/blob/main/git_graph/gitgraph.md"></iframe>
+![Diagram 4](SVG/git.svg)
 
 ### There are several types of diagrams commonly used to illustrate Git workflows:
 
@@ -252,7 +250,7 @@ A Quadrant Diagram is a visual representation that divides a space into four qua
 
 **Quadrants**: The diagram is divided into four quadrants, typically labeled as Quadrant I, Quadrant II, Quadrant III, and Quadrant IV. These quadrants are used to categorize items based on two dimensions.
 
-**\_Dimensions**: The two dimensions represent two different attributes, concepts, or variables that define the space. These dimensions can be quantitative, qualitative, or a mix of both.
+**Dimensions**: The two dimensions represent two different attributes, concepts, or variables that define the space. These dimensions can be quantitative, qualitative, or a mix of both.
 
 **Items**: Items or entities are plotted within the diagram based on their values along the two dimensions. The placement of an item in a specific quadrant reflects its position in relation to the defined dimensions.
 
