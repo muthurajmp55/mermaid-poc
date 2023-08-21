@@ -1,8 +1,25 @@
 # This is flow chart for Onboarding process
 
+
+
 ```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#BB2528',
+      'primaryTextColor': '#fff',
+      'primaryBorderColor': '#7C0000',
+      'lineColor': '#F8B229',
+      'secondaryColor': '#006100',
+      'tertiaryColor': '#fff'
+    }
+  }
+}%%
+
+
 graph TD
-Onboarding --> Day_1
+Onboarding ==> Day_1
 Day_1 --> complete_link_tree_content
 Day_1 --> Fingerprint_Access
 Day_1 --> providing_temprory_id_card

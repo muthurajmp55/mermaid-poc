@@ -1,6 +1,20 @@
 # This is example for Gantt diagram
 
 ````mermaid
+%%{
+  init: {
+    'theme': 'forest',
+    'themeVariables': {
+      'primaryColor': '#DAA520',
+      'primaryTextColor': '#000000',
+      'primaryBorderColor': '#7C0000',
+      'lineColor': '#F8B229',
+      'secondaryColor': '#F08080',
+      'tertiaryColor': '#F4A460'
+    }
+  }
+}%%
+
 gantt
 title Project Schedule
 

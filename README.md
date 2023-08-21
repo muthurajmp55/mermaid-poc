@@ -311,3 +311,43 @@ Data Distribution: Pie charts are used to visually represent the distribution of
 **Visual Engagement**: Pie charts can engage audiences and make data more accessible and visually appealing.
 
 Creating Pie Charts can be done using various tools, including spreadsheet software like Microsoft Excel or Google Sheets, data visualization tools like Tableau or Power BI, or even programming languages like Python with libraries like Matplotlib or Plotly. When creating a pie chart, it's important to ensure that the data is well-organized and that the chart's design is clear and easily understandable for the intended audience.
+
+## Theming Options for Mermaid Flowcharts
+
+Mermaid, a JavaScript library, provides theming options to customize the appearance of your flowcharts. These options allow you to tailor the visual style of your flowchart diagrams to suit your specific needs and the context in which they are used.
+
+## Customizing the Look of Flowcharts
+
+Mermaid supports several theming options, which can be specified when you create your flowchart. Here are some key theming options you can use:
+
+## Default Theme: Mermaid offers a default theme that provides a clean and simple look for your flowcharts.
+
+**Forest Theme**: The 'forest' theme is designed with green and brown colors, making it suitable for flowcharts related to nature or environmental topics.
+
+**Dark Theme**: If you're working with a dark background, the 'dark' theme is designed to work well in such contexts, with light text and lines.
+
+**Applying a Theme**
+To apply a theme to your Mermaid flowchart, you can use the %%{init: {'theme': 'your-theme-name'}}%% directive. Replace 'your-theme-name' with the theme you want to apply.
+
+Here's an example of how to use the 'forest' theme:
+
+mermaid
+
+%%{init: {'theme': 'forest'}}%%
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+
+In this example, the 'forest' theme is applied to the flowchart, giving it a nature-inspired color palette.
+
+### Custom Styling
+
+If the built-in themes don't meet your requirements, you can further customize the styling of your flowchart by using CSS. You can target specific elements within the generated SVG or HTML output and apply your own styles to achieve a unique look.
+
+### Benefits of Theming
+
+Theming your Mermaid flowcharts enhances their visual appeal and ensures they align with your document's overall design and purpose. Whether you need a professional look for business documentation or a thematic style for educational content, Mermaid's theming options provide flexibility in presentation.
+
+Using Mermaid, you can create flowcharts that not only convey information effectively but also look great in the context of your documents or web pages.
